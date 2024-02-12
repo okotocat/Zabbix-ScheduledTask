@@ -1,10 +1,11 @@
 # Zabbix-ScheduledTask
 
 ## Step 1:
-#### Copy the *.ps1 files to the zabbix_agent2\script folder
+### Copy the *.ps1 files to the zabbix_agent2\script folder
 #### Normally is in "C:\Zabbix\"
+
 #### C:\Zabbix\script\*.ps1
-#### Copy config file to zabbix_agent2 config folder
+### Copy config file to zabbix_agent2 config folder
 #### C:\Zabbix\conf\zabbix_agent2.d\plugins.d\Zabbix-ScheduledTask.conf
 
 ## Step 2:
