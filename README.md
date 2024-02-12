@@ -18,4 +18,7 @@
 #### Restart the Zabbix Agent
 
 ## Step 5:
+#### Import template from Template_Tasks_Z6.0.xml in your zabbix server
+
+## Step 6:
 #### Bind the Template Windows Task Scheduled in host.
